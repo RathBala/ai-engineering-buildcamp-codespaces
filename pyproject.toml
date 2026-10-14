@@ -1,0 +1,9 @@
+[project]
+name = "ai-engineering-buildcamp-codespaces"
+version = "0.1.0"
+description = "AI Engineering Buildcamp notebooks"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "openai>=3.29.0",
+]
